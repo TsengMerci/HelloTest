@@ -1,0 +1,5 @@
+C:\Users\merci\Desktop\HelloTest\HelloTest\bin\Debug\HelloTest.exe
+C:\Users\merci\Desktop\HelloTest\HelloTest\bin\Debug\HelloTest.pdb
+C:\Users\merci\Desktop\HelloTest\HelloTest\obj\Debug\HelloTest.csprojResolveAssemblyReference.cache
+C:\Users\merci\Desktop\HelloTest\HelloTest\obj\Debug\HelloTest.exe
+C:\Users\merci\Desktop\HelloTest\HelloTest\obj\Debug\HelloTest.pdb
