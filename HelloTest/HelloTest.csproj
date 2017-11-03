@@ -33,11 +33,13 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'AW_Setup|AnyCPU'">
     <OutputPath>bin\AW_Setup\</OutputPath>
-    <DefineConstants>AW</DefineConstants>
+    <DefineConstants>TRACE;DEBUG;AW</DefineConstants>
+	<PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'AS_Setup|AnyCPU'">
     <OutputPath>bin\AS_Setup\</OutputPath>
-    <DefineConstants>AS</DefineConstants>
+    <DefineConstants>TRACE;DEBUG;AS</DefineConstants>
+	<PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

@@ -1,0 +1,3 @@
+C:\Users\merci\Desktop\HelloTest\HelloTest\bin\AS_Setup\HelloTest.exe
+C:\Users\merci\Desktop\HelloTest\HelloTest\obj\AS_Setup\HelloTest.csprojResolveAssemblyReference.cache
+C:\Users\merci\Desktop\HelloTest\HelloTest\obj\AS_Setup\HelloTest.exe

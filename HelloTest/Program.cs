@@ -9,7 +9,12 @@ namespace HelloTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Body !");
+#if AW
+            Console.WriteLine("Hello World AW !");
+#endif
+#if AS
+            Console.WriteLine("Hello World AS !");
+#endif
             Console.ReadLine();
         }
     }

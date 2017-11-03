@@ -1,0 +1,2 @@
+C:\Users\merci\Desktop\HelloTest\HelloTest\bin\AW_Setup\HelloTest.exe
+C:\Users\merci\Desktop\HelloTest\HelloTest\obj\AW_Setup\HelloTest.exe
